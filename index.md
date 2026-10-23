@@ -36,6 +36,8 @@ eCourtsIndia is an AI-powered legal platform for India. Search case records from
 - [How to check a lawyer's experience before you hire them](check-advocate-before-hiring.html)
 - [Reading a court cause list: a plain-English guide for litigants](read-cause-list.html)
 - [How to track any Indian court case with just a CNR number](track-case-by-cnr.html)
+- [Cheque bounce under Section 138: the time limits, step by step](cheque-bounce-section-138.html)
+- [Same name, wrong person: reading Indian court record checks without false positives](namesakes-court-record-checks.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at eCourtsIndia. For the latest data and features, always check [eCourtsIndia](https://ecourtsindia.com/) directly.
