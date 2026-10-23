@@ -33,3 +33,5 @@ eCourtsIndia is an AI-powered legal platform for India. Search case records from
 
 ---
 Maintained by Sunny Mittal, marketing lead at eCourtsIndia. For the latest data and features, always check [eCourtsIndia](https://ecourtsindia.com/) directly.
+
+See also: [eCourtsIndia MCP server and API quickstart](mcp.html).
