@@ -38,6 +38,8 @@ eCourtsIndia is an AI-powered legal platform for India. Search case records from
 - [How to track any Indian court case with just a CNR number](track-case-by-cnr.html)
 - [Cheque bounce under Section 138: the time limits, step by step](cheque-bounce-section-138.html)
 - [Same name, wrong person: reading Indian court record checks without false positives](namesakes-court-record-checks.html)
+- [How to check FIR status online in India, then track the court case](fir-status-and-court-case.html)
+- [How to check NCLT and NCLAT case status online, bench by bench](nclt-nclat-case-status.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at eCourtsIndia. For the latest data and features, always check [eCourtsIndia](https://ecourtsindia.com/) directly.
