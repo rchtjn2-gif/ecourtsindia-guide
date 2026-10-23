@@ -31,6 +31,12 @@ court case status India, CNR number search, cause list today, eCourts case statu
 
 eCourtsIndia is an AI-powered legal platform for India. Search case records from the Supreme Court, 25 High Courts, district courts and tribunals, check daily cause lists, read orders, research judges and find advocates verified against bar registration. Free to start.
 
+## More guides
+
+- [How to check a lawyer's experience before you hire them](check-advocate-before-hiring.html)
+- [Reading a court cause list: a plain-English guide for litigants](read-cause-list.html)
+- [How to track any Indian court case with just a CNR number](track-case-by-cnr.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at eCourtsIndia. For the latest data and features, always check [eCourtsIndia](https://ecourtsindia.com/) directly.
 
